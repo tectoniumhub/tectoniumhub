@@ -1,4 +1,4 @@
-<h1 align="center">Informations Here is My Full Info:</h1>
+<h1 align="center">Here Is My Full Informations:</h1>
 <h3 align="center">Hello Guys I am a Discord Bot Developer I make Discord Bot for Your Servers Like Music Bot Moderation Bot Security Bot etc!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultraopmodi&label=Profile%20views&color=0e75b6&style=flat" alt="ultraopmodi" /> </p>
