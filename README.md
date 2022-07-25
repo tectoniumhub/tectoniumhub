@@ -1,11 +1,8 @@
-<h1 align="center">Here Is My Full Informations:</h1>
+,<h1 align="center">Here Is My Full Informations:</h1>
 <h3 align="center">Hello Guys I am a Discord Bot Developer I make Discord Bot for Your Servers Like Music Bot Moderation Bot Security Bot etc!</h3>
+<p>If You Want You Discord Source Codes So You Get All In This GitHub. Subscribe My Channel For New Op Op ProjectsFor Your <b>Discord Bot</b></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ultraopmodi&label=Profile%20views&color=0e75b6&style=flat" alt="ultraopmodi" /> </p>
-
-- I am Currently working on **Discord Latest Bot's Projects**
-
-- I am Currently Learning **https://www.programize.com/javascript**
+- I am Currently working on Discord Latest Bot's Projects
 
 - My Email ID: **tectonium2008git@gmail.com**
 
