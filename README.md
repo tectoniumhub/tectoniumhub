@@ -20,5 +20,3 @@ You can get this bot in discord server or You need to find this bot in top.gg bo
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ultraopmodi&show_icons=true&locale=en&layout=compact" alt="ultraopmodi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultraopmodi&show_icons=true&locale=en" alt="ultraopmodi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultraopmodi&" alt="ultraopmodi" /></p>
