@@ -1,7 +1,7 @@
 # **About me:**
 
 ### **Informations:**
-Hello, I am **ULTRA OP MODI** I am discord bot developer and I make cool cool discord bot projects for You.
+Hello, I am **Tectonium Hub** I am discord bot developer and I make cool cool discord bot projects for You.
 And this projects are need in make Your own discord bot follow my github to get infomation of new discord bot project.
 I am a **YouTuber** also I make gaming and discord tricks contents join my discord server for more information and I make my own discord bot
 You can get this bot in discord server or You need to find this bot in top.gg bot name: **Tectonium Bot**
