@@ -10,7 +10,7 @@ You can get this bot in discord server or You need to find this bot in top.gg bo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://youtube.com/channel/ucunhta9i0fj61u6qdqkscqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucunhta9i0fj61u6qdqkscqq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/channel/ucunhta9i0fj61u6qdqkscqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@ultraopmodi" height="30" width="40" /></a>
 <a href="https://discord.gg/ULTRA OP MODI#8496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ULTRA OP MODI#8496" height="30" width="40" /></a>
 </p>
 
