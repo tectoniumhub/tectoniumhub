@@ -1,9 +1,41 @@
+# WELCOME
+Greetings to every individuals to visiting this Github profile. All information about **[Tectonium Hub](https://github.com/tectoniumhub)** will be discussing here
+
 ### INFORMATION
-A person who code in **TypeScript**
+A junior developer who is skilled in backend and frontend workspace. They are also skilled in API and Application development. Currently they are learning many different modules and tools. They interested in Ethical hacking
 
-- 🌱 I am currently learning **C++**
+### PROGRAMMING LANGUAGES
+- TypeScript
+- JavaScript
+- NodeJS
+- HTML
+- CSS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### MOST USED MODULES
+- Angular
+- Discord.js
+- Electron
+- Ion Framework
+- Capacitor
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tectoniumhub&show_icons=true&locale=en&layout=compact" alt="tectoniumhub" /></p>
+### ETHICAL TOOLS
+- Scapy
+- NMP
+- Wireshark
+- MSF
+- Python
+
+### ALTERNATIVES
+- Replit
+- Netlify
+- Cyber Security
+- Networking
+- Backend Development
+
+### CONTACT
+- **[Discord](https://discord.com/users/946076261623685211)**
+- **[Twitter](https://x.com/tectoniumhub?t=qUd3O7HaHAU2aS7GrlHpHg&s=09)**
+- **[E-mail](tectoniumhub@proton.me)**
+
+### LEGAL AUTHORITY
+There has been informed every information and they keep focus on ethical hacking and development of APIs
