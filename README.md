@@ -20,9 +20,9 @@ A junior developer who is skilled in backend and frontend workspace. They are al
 
 ### ETHICAL TOOLS
 - Scapy
-- NMP
+- NMAP
 - Wireshark
-- MSF
+- Metasploit
 - Python
 
 ### ALTERNATIVES
