@@ -35,7 +35,7 @@ A junior developer who is skilled in backend and frontend workspace. They are al
 ### CONTACT
 - **[Discord](https://discord.com/users/946076261623685211)**
 - **[Twitter](https://x.com/tectoniumhub?t=qUd3O7HaHAU2aS7GrlHpHg&s=09)**
-- **[E-mail](tectoniumhub@proton.me)**
+- **E-Mail:** tectoniumhub@proton.me
 
 ### LEGAL AUTHORITY
 There has been informed every information and they keep focus on ethical hacking and development of APIs
