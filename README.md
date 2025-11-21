@@ -1,8 +1,8 @@
 # WELCOME
-Greetings to every individuals to visiting this Github profile. All information about **[Tectonium Hub](https://github.com/tectoniumhub)** will be discussing here
+Greetings to every individual to visiting this Github profile. All information about **[Tectonium Hub](https://github.com/tectoniumhub)** will be shared
 
 ### INFORMATION
-A junior developer who is skilled in backend and frontend workspace. They are also skilled in API and Application development. Currently they are learning many different modules and tools. They interested in Ethical hacking
+A skilled junior developer of backend and frontend workspace. Particularly focuses on API and server based development. Currently exploring about ethical hacking education and various modules to utilise in future development
 
 ### PROGRAMMING LANGUAGES
 - TypeScript
@@ -11,7 +11,7 @@ A junior developer who is skilled in backend and frontend workspace. They are al
 - HTML
 - CSS
 
-### MOST USED MODULES
+### MOST PREFERRED MODULES
 - Angular
 - Discord.js
 - Electron
@@ -38,4 +38,4 @@ A junior developer who is skilled in backend and frontend workspace. They are al
 - **E-Mail:** tectoniumhub@proton.me
 
 ### LEGAL AUTHORITY
-There has been informed every information and they keep focus on ethical hacking and development of APIs
+Therefore, above all information are provided
