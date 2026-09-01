@@ -1,6 +1,4 @@
-# 💫 DESCRIPTION:
-I am a junior programmer for full-stack architecture of backend servers. I prefer TypeScript for constructing application of digital communication, service API activity and enterprise workflow.<br><br>I am currently endeavouring to acquiring Angular, Advanced Backend Architecture, WebSocket and Authentication System. It is intriguing to explore the network of software engineering and deploying beneficial tools for worldwide users.<br><br>However, I am already skilled in:<br>- TypeScript & JavaScript (with Node.JS)<br>- Fastify (NPM)<br>- Supabase<br>- Prisma (PostgreSQL)<br>- Redis
-
+# DESCRIPTION:
 
 ## 🌐 SOCIALS:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ExcwSxjGUF) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tectoniumhub@proton.me) 
